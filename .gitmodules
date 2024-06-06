@@ -1,0 +1,3 @@
+[submodule "mini_compile_commands"]
+	path = mini_compile_commands
+	url = https://github.com/danielbarter/mini_compile_commands.git
